@@ -1,0 +1,5 @@
+name.ro = "Papadic"
+name.en = "Papadical"
+name.gr = "Παπαδικό"
+
+parent = "@taxonomies/musical"

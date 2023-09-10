@@ -1,0 +1,8 @@
+# TODO: alternative names
+name.en = "Petros Peloponnesios"
+name.ro = "Petru Lampadarie"
+name.gr = "Πέτρος ο Πελοποννήσιος"
+
+[about]
+content = "wiki"
+url = "https://www.wikipedia.org/wiki/Petros_Peloponnesios"

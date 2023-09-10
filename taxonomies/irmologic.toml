@@ -1,0 +1,5 @@
+name.ro = "Irmologic"
+name.en = "Irmological"
+name.gr = "Ιρμολογικό"
+
+parent = "@taxonomy/musical"

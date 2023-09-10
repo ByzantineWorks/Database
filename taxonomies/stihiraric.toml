@@ -1,0 +1,5 @@
+name.ro = "Stihiraric"
+name.en = "Sticheraric"
+name.gr = "Στιχηραρικό"
+
+parent = "@taxonomies/musical"
