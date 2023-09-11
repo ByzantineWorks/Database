@@ -1,0 +1,12 @@
+name.ro = "Sfinte Dumnezeule, glas 2, Traditional"
+name.gr = "Τρισάγιον, Ήχος Β΄"
+
+text = "@texts/trisagion"
+author = "@people/anonymous"
+contribution = "composed"
+
+performances = []
+publications = []
+
+category = "@taxonomy/papadic"
+tags = []
