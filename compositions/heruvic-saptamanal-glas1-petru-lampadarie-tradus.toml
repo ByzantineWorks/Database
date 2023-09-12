@@ -4,12 +4,9 @@ text = "@texts/cherubikon"
 author = "@people/nectarie-frimu"
 contribution = "translated@compositions/heruvic-saptamanal-glas1-petru-lampadarie"
 
+performances = []
 publications = [
 	{ into = "@publications/buchet-muzical-athonit-1-2014", page = 98 },
-]
-
-performances = [
-	{ performer = "@people/panagiotis-neochoritis", link = { content = "video", url = "https://youtu.be/cAqY2j7Dmjc" } },
 ]
 
 category = "@taxonomy/papadic"

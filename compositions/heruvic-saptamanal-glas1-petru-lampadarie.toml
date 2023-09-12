@@ -5,7 +5,10 @@ text = "@texts/cherubikon"
 author = "@people/petros-peloponnesios"
 contribution = "composed"
 
-performances = []
+performances = [
+	{ performer = "@people/panagiotis-neochoritis", link = { content = "video", url = "https://youtu.be/cAqY2j7Dmjc" } },
+]
+
 publications = []
 
 category = "@taxonomy/papadic"
