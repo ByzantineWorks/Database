@@ -2,12 +2,17 @@ name.ro = "Heruvic Saptamanal, glas 1, de Petru Lampadarie, tradus de P.S. Necta
 
 text = "@texts/cherubikon"
 author = "@people/nectarie-frimu"
-contribution = "translated@compositions/heruvic-saptamanal-glas1-petru-lampadarie"
+contribution = "translated@heruvic-saptamanal-glas1-petru-lampadarie"
 
 performances = []
 publications = [
 	{ into = "@publications/buchet-muzical-athonit-1-2014", page = 98 },
 ]
 
-category = "@taxonomy/papadic"
+category = "@taxonomies/papadic"
 tags = []
+
+[musical]
+mode = 1
+base = "PA"
+modulations = []

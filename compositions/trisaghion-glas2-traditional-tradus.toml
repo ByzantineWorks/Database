@@ -2,10 +2,15 @@ name.ro = "Sfinte Dumnezeule, glas 2, Traditional, Tradus de Schim. Nectarie"
 
 text = "@texts/trisagion"
 author = "@people/nectarie-protopsaltul"
-contribution = "translated@compositions/trisaghion-glas2-traditional"
+contribution = "translated@trisaghion-glas2-traditional"
 
 performances = []
 publications = []
 
-category = "@taxonomy/papadic"
+category = "@taxonomies/papadic"
 tags = []
+
+[musical]
+mode = 2
+base = "DI"
+modulations = []

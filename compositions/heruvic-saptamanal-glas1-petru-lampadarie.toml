@@ -11,5 +11,10 @@ performances = [
 
 publications = []
 
-category = "@taxonomy/papadic"
+category = "@taxonomies/papadic"
 tags = []
+
+[musical]
+mode = 1
+base = "PA"
+modulations = []
