@@ -1,7 +1,7 @@
 name.ro = "Heruvic Saptamanal, glas 1, de Petru Lampadarie"
 name.gr = "Χερουβικό Πέτρου Λαμπαδαρίου, Ήχος Α΄"
 
-text = "@texts/cherubikon"
+text = "@texts/cherubikon[weekdays]"
 author = "@people/petros-peloponnesios"
 contribution = "composed"
 

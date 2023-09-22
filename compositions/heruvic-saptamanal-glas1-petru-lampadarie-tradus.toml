@@ -1,6 +1,6 @@
 name.ro = "Heruvic Saptamanal, glas 1, de Petru Lampadarie, tradus de P.S. Nectarie Frimu"
 
-text = "@texts/cherubikon"
+text = "@texts/cherubikon[weekdays]"
 author = "@people/nectarie-frimu"
 contribution = "translated@heruvic-saptamanal-glas1-petru-lampadarie"
 

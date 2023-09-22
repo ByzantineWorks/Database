@@ -1,3 +1,6 @@
 name.en = "Trisagion"
 name.gr = "Τρισάγιος ύμνος"
 name.ro = "Trisaghionul"
+
+[[part_of]]
+text = "@texts/divine-liturgy"
