@@ -2,7 +2,7 @@ name.en = "Cherubikon"
 name.gr = "Xερουβικόν"
 name.ro = "Heruvicul"
 
-[variations.weekdays]
+[variants.weekdays]
 name.en = "Cherubikon of the week days"
 name.gr = "Xερουβικόν εβδομάδος"
 name.ro = "Heruvicul săptămânal"
